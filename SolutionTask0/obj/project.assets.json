@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\GB\\Gruppa2718\\FirstStepInProgramming\\SolutionTask0\\SolutionTask0.csproj",
+      "projectUniqueName": "G:\\GB\\Gruppa2718\\FirstStepInProgramming\\FirstStepInProgramming\\SolutionTask0\\SolutionTask0.csproj",
       "projectName": "SolutionTask0",
-      "projectPath": "G:\\GB\\Gruppa2718\\FirstStepInProgramming\\SolutionTask0\\SolutionTask0.csproj",
+      "projectPath": "G:\\GB\\Gruppa2718\\FirstStepInProgramming\\FirstStepInProgramming\\SolutionTask0\\SolutionTask0.csproj",
       "packagesPath": "C:\\Users\\Andrey\\.nuget\\packages\\",
-      "outputPath": "G:\\GB\\Gruppa2718\\FirstStepInProgramming\\SolutionTask0\\obj\\",
+      "outputPath": "G:\\GB\\Gruppa2718\\FirstStepInProgramming\\FirstStepInProgramming\\SolutionTask0\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
